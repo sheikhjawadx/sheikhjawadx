@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - Interested in contributing to **community-driven** projects.
 
 - **Email**: [sheikhjawadx@gmail.com](mailto:sheikhjawadx@gmail.com)
-- **LinkedIn**: [sheikhjawadx](https://www.linkedin.com/in/sheikhjawadx)
+- **LinkedIn**: [sheikhjawadx](https://www.linkedin.com/in/jawad-ahmad-583b0a31b/)
 
 ## ⚡ Fun Fact
 - I love **hiking** **gaming** **photography** and **cricket** in my free time.
